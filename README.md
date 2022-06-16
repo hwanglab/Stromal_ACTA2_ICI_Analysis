@@ -4,10 +4,11 @@
 This repository contains the scripts which can reproduce the main figures in the "ACTA2 expression predicts survival and response to immune checkpoint inhibitors in gastric cancer" (submited to Clinical Cancer Research).
 
 
-| ![space-1.jpg|160x120](https://github.com/hwanglab/Stromal_ACTA2_ICI_Analysis/blob/main/data/Figure1.png)  | 
-|:--:| 
-| *Space* |
-
+<img
+  src="./data/Figure1.png"
+  alt="Figure 1"
+  title="Study workflow"
+  style="display: inline-block; margin: 0 auto; max-width: 120px">
 
 **System requirements**
 
