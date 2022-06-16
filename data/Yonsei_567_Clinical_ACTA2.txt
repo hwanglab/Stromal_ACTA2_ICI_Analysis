@@ -1,0 +1,568 @@
+"ID"	"OS..months."	"Status"	"Stage"	"Adjuvant.Chemotherapy.Use"	"Molecular.Subgroup"	"Age"	"Gender"	"Lauren.Type"	"Lymphovascular.Invasion"	"Perineural.Invasion"	"Tumor.Location"	"EBV"	"ATAC2"
+"10020T"	" 88 "	"Alive"	2	"Chemotherapy"	1	52	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.517282
+"10095T"	" 82 "	"Alive"	3	"No chemotherapy"	1	79	"Male"	"Mixed"	"Positive"	"Positive"	"Antrum"	""	5.792534
+"10158T"	" 74 "	"Alive"	2	"Chemotherapy"	1	75	"Male"	"Diffuse"	"Positive"	"Negative"	"Body"	""	5.79591
+"10165T"	" 80 "	"Alive"	3	"Chemotherapy"	1	55	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.782861
+"10174T"	" 71 "	"Alive"	3	"No chemotherapy"	1	54	"Male"	"Diffuse"	"Negative"	"Positive"	"Body"	""	5.952816
+"10180T"	" 33 "	"Deceased"	3	"No chemotherapy"	1	63	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.678761
+"10183T"	" 77 "	"Alive"	3	"Chemotherapy"	1	59	"Male"	"Intestinal"	"Positive"	"Positive"	"Cardia"	""	6.048127
+"10193T"	" 76 "	"Alive"	2	"Chemotherapy"	1	60	"Male"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	6.02575
+"10196T"	" 74 "	"Alive"	3	"Chemotherapy"	1	64	"Female"	"Other"	"Positive"	"Positive"	"Body"	""	5.816837
+"19T"	" 69 "	"Alive"	2	"Chemotherapy"	1	55	"Female"	"Other"	"Positive"	"Negative"	"Antrum"	""	6.324249
+"20T"	" 5 "	"Deceased"	3	"Chemotherapy"	1	65	"Female"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	6.197402
+"2224T"	" 152 "	"Alive"	2	"No chemotherapy"	1	55	"Male"	"Diffuse"	"Negative"	"Negative"	"Body"	"Positive"	5.827721
+"2339T"	" 27 "	"Deceased"	3	"Chemotherapy"	1	58	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.651355
+"2400T"	" 149 "	"Alive"	3	"No chemotherapy"	1	48	"Male"	"Other"	"Positive"	"Negative"	"Antrum"	"Negative"	6.461508
+"2417T"	" 148 "	"Alive"	3	"Chemotherapy"	1	69	"Female"	"Diffuse"	"Positive"	"Negative"	"Antrum"	""	6.009402
+"2509T"	" 144 "	"Alive"	3	"Chemotherapy"	1	72	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	6.729708
+"2658T"	" 142 "	"Alive"	3	"Chemotherapy"	1	66	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.704276
+"2685T"	" 142 "	"Alive"	2	"Chemotherapy"	1	60	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	"Negative"	5.832922
+"2736T"	" 141 "	"Alive"	2	"Chemotherapy"	1	67	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	""	5.554229
+"2818T"	" 139 "	"Alive"	3	"Chemotherapy"	1	56	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.991023
+"2860T"	" 138 "	"Alive"	2	"Chemotherapy"	1	63	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.730036
+"2873T"	" 138 "	"Alive"	2	"Chemotherapy"	1	44	"Male"	"Intestinal"	"Positive"	"Negative"	"Body"	"Negative"	5.508737
+"3024T"	" 14 "	"Deceased"	3	"Chemotherapy"	1	77	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.940124
+"3036T"	" 135 "	"Alive"	3	"Chemotherapy"	1	54	"Male"	"Diffuse"	"Negative"	"Negative"	"Body"	""	6.555099
+"3082T"	" 134 "	"Alive"	2	"Chemotherapy"	1	44	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.533982
+"3098T"	" 35 "	"Deceased"	3	"Chemotherapy"	1	64	"Male"	"Other"	"Positive"	"Negative"	"Antrum"	"Negative"	5.546816
+"30T"	" 15 "	"Deceased"	3	"Chemotherapy"	1	65	"Male"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	6.077476
+"3100T"	" 141 "	"Alive"	3	"Chemotherapy"	1	48	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	5.737136
+"3105T"	" 133 "	"Alive"	2	"Chemotherapy"	1	55	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	5.649327
+"3317T"	" 129 "	"Alive"	3	"Chemotherapy"	1	62	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	5.60675
+"3318T"	" 57 "	"Alive"	3	"Chemotherapy"	1	69	"Male"	"Intestinal"	"Positive"	""	""	"Negative"	5.854765
+"3376T"	" 128 "	"Alive"	3	"Chemotherapy"	1	59	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.735223
+"33T"	" 60 "	"Alive"	3	"No chemotherapy"	1	59	"Male"	"Diffuse"	"Negative"	"Positive"	"Body"	""	5.771698
+"3409T"	" 1 "	"Deceased"	3	"No chemotherapy"	1	56	"Female"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	5.670122
+"3426T"	" 127 "	"Alive"	3	"Chemotherapy"	1	46	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	"Negative"	5.805908
+"3427T"	" 58 "	"Deceased"	3	"Chemotherapy"	1	66	"Female"	"Intestinal"	"Positive"	"Negative"	"Body"	"Negative"	6.185907
+"3437T"	" 127 "	"Alive"	3	"Chemotherapy"	1	65	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	6.320993
+"3480T"	" 85 "	"Deceased"	2	"Chemotherapy"	1	66	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	5.687747
+"3485T"	" 33 "	"Deceased"	3	"Chemotherapy"	1	44	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	"Negative"	5.696965
+"3489T"	" 129 "	"Alive"	3	"Chemotherapy"	1	79	"Female"	"Intestinal"	"Positive"	"Negative"	"Body"	"Negative"	6.480336
+"3491T"	" 125 "	"Alive"	3	"Chemotherapy"	1	69	"Female"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	6.408665
+"3496T"	" 125 "	"Alive"	3	"No chemotherapy"	1	51	"Female"	"Intestinal"	"Positive"	""	""	""	5.723275
+"3501T"	" 6 "	"Deceased"	3	""	1	68	"Female"	"Diffuse"	"Positive"	"Positive"	"Antrum"	"Negative"	6.631468
+"3516T"	" 125 "	"Alive"	2	"Chemotherapy"	1	72	"Male"	"Diffuse"	"Negative"	"Negative"	"Body"	"Negative"	5.938232
+"3551T"	" 51 "	"Deceased"	2	"Chemotherapy"	1	76	"Female"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	6.005582
+"3554T"	" 79 "	"Deceased"	3	"Chemotherapy"	1	81	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	6.023828
+"3561T"	" 131 "	"Alive"	3	"Chemotherapy"	1	50	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	6.484979
+"3577T"	" 120 "	"Deceased"	3	"Chemotherapy"	1	70	"Female"	"Mixed"	"Positive"	"Negative"	"Body"	"Negative"	5.961782
+"3589T"	" 123 "	"Alive"	2	"Chemotherapy"	1	77	"Female"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.836233
+"3594T"	" 95 "	"Deceased"	2	"Chemotherapy"	1	68	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	5.740166
+"35T"	" 61 "	"Alive"	2	"No chemotherapy"	1	48	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.862766
+"3625T"	" 122 "	"Alive"	3	"Chemotherapy"	1	68	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	5.794338
+"3643T"	" 21 "	"Deceased"	3	"Chemotherapy"	1	76	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	6.221178
+"3734T"	" 129 "	"Alive"	3	"Chemotherapy"	1	68	"Female"	"Intestinal"	"Positive"	"Negative"	"Body"	"Negative"	5.685889
+"3917T"	" 95 "	"Alive"	1	"No chemotherapy"	1	63	"Female"	"Other"	"Negative"	"Negative"	""	""	5.627321
+"3926T"	" 92 "	"Deceased"	3	"Chemotherapy"	1	60	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	""	6.357573
+"3934T"	" 121 "	"Alive"	1	"No chemotherapy"	1	55	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	6.191293
+"3944T"	" 7 "	"Deceased"	4	"Chemotherapy"	1	54	"Male"	"Other"	"Negative"	"Negative"	"Body"	"Negative"	5.843134
+"3988T"	" 23 "	"Deceased"	3	"Chemotherapy"	1	61	"Male"	"Other"	"Positive"	"Negative"	"Body"	"Negative"	6.292962
+"3T"	" 30 "	"Deceased"	2	"Chemotherapy"	1	44	"Male"	"Diffuse"	"Negative"	"Positive"	""	""	6.457207
+"4009T"	" 49 "	"Deceased"	2	"No chemotherapy"	1	63	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	5.684208
+"4063T"	" 4 "	"Deceased"	3	"Chemotherapy"	1	62	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	6.200119
+"4066T"	" 115 "	"Alive"	3	"Chemotherapy"	1	77	"Female"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.40316
+"4074T"	" 103 "	"Deceased"	1	"Chemotherapy"	1	80	"Male"	"Other"	"Negative"	"Negative"	"Body"	"Negative"	5.62524
+"4083T"	" 114 "	"Alive"	2	"No chemotherapy"	1	64	"Female"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.913341
+"40T"	" 59 "	"Alive"	2	"Chemotherapy"	1	43	"Female"	"Other"	"Positive"	"Negative"	"Antrum"	""	5.464304
+"4107T"	" 25 "	"Deceased"	3	"Chemotherapy"	1	76	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	5.787913
+"4109T"	" 12 "	"Deceased"	3	"Chemotherapy"	1	62	"Male"	"Other"	"Positive"	"Negative"	"Body"	"Positive"	5.88792
+"4121T"	" 114 "	"Alive"	3	"Chemotherapy"	1	54	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	"Positive"	5.539216
+"4180T"	" 113 "	"Alive"	3	"Chemotherapy"	1	71	"Female"	"Other"	"Negative"	"Negative"	"Body"	"Negative"	5.880985
+"4190T"	" 55 "	"Deceased"	3	"Chemotherapy"	1	68	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.981962
+"4194T"	" 10 "	"Deceased"	3	"Chemotherapy"	1	74	"Female"	"Other"	"Positive"	"Negative"	"Antrum"	"Negative"	6.074982
+"4197T"	" 21 "	"Deceased"	3	"Chemotherapy"	1	68	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	6.282612
+"4204T"	" 112 "	"Alive"	3	"Chemotherapy"	1	67	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	"Positive"	6.127488
+"4214T"	" 112 "	"Alive"	3	"Chemotherapy"	1	55	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.896082
+"4236T"	" 11 "	"Deceased"	4	"Chemotherapy"	1	79	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	""	6.130135
+"4263T"	" 93 "	"Deceased"	1	"No chemotherapy"	1	81	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	""	5.570969
+"4273T"	" 111 "	"Alive"	2	"No chemotherapy"	1	58	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.666448
+"4282T"	" 3 "	"Deceased"	4	"Chemotherapy"	1	33	"Male"	"Other"	"Positive"	"Negative"	"Antrum"	""	5.629022
+"4296T"	" 53 "	"Deceased"	2	"Chemotherapy"	1	67	"Female"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.724825
+"4299T"	" 105 "	"Deceased"	2	"Chemotherapy"	1	68	"Male"	"Other"	"Negative"	"Negative"	"Body"	""	5.500032
+"4310T"	" 104 "	"Deceased"	3	"Chemotherapy"	1	46	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.943556
+"4360T"	" 20 "	"Deceased"	3	"Chemotherapy"	1	53	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.541739
+"4404T"	" 108 "	"Alive"	3	"Chemotherapy"	1	60	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.781346
+"4472T"	" 116 "	"Alive"	3	"Chemotherapy"	1	61	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.633161
+"4507T"	" 106 "	"Alive"	1	"No chemotherapy"	1	60	"Male"	"Other"	"Positive"	"Negative"	"Body"	""	5.695111
+"4531T"	" 107 "	"Alive"	2	"Chemotherapy"	1	46	"Male"	"Other"	"Negative"	"Negative"	"Body"	""	5.899491
+"4554T"	" 29 "	"Deceased"	4	"Chemotherapy"	1	72	"Male"	"Other"	"Negative"	"Negative"	""	""	5.491612
+"4570T"	" 109 "	"Alive"	2	"Chemotherapy"	1	70	"Female"	"Other"	"Negative"	"Negative"	"Body"	""	5.610848
+"4655T"	" 80 "	"Alive"	1	"No chemotherapy"	1	63	"Male"	"Other"	"Negative"	"Negative"	""	""	5.511542
+"4659T"	" 72 "	"Deceased"	2	""	1	71	"Male"	"Other"	""	""	""	""	5.671736
+"4662T"	" 108 "	"Alive"	1	"No chemotherapy"	1	61	"Female"	"Other"	"Negative"	"Negative"	"Body"	""	5.460884
+"4712T"	" 102 "	"Alive"	2	"No chemotherapy"	1	64	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.368851
+"4770T"	" 101 "	"Alive"	3	"Chemotherapy"	1	65	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.566243
+"4T"	" 54 "	"Alive"	3	"No chemotherapy"	1	71	"Female"	"Intestinal"	"Positive"	"Positive"	""	""	6.526963
+"539T"	" 61 "	"Alive"	3	"Chemotherapy"	1	59	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.395225
+"567T"	" 37 "	"Alive"	3	"Chemotherapy"	1	54	"Female"	"Mixed"	"Positive"	"Negative"	"Antrum"	""	5.755269
+"568T"	" 92 "	"Alive"	1	"No chemotherapy"	1	62	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	""	5.615117
+"56T"	" 49 "	"Alive"	3	"No chemotherapy"	1	70	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.575837
+"572T"	" 41 "	"Alive"	2	"Chemotherapy"	1	36	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.841313
+"573T"	" 42 "	"Alive"	1	"No chemotherapy"	1	67	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.75359
+"582T"	" 37 "	"Alive"	2	"No chemotherapy"	1	71	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.662667
+"586T"	" 34 "	"Alive"	3	"Chemotherapy"	1	65	"Male"	"Diffuse"	"Positive"	"Positive"	"Body"	""	5.750061
+"594T"	" 35 "	"Alive"	3	"Chemotherapy"	1	53	"Female"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	6.056674
+"595T"	" 35 "	"Alive"	3	"Chemotherapy"	1	69	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.851346
+"597T"	" 35 "	"Alive"	2	"Chemotherapy"	1	63	"Male"	"Other"	"Negative"	"Negative"	"Body"	""	5.639847
+"598T"	" 38 "	"Alive"	3	"No chemotherapy"	1	68	"Male"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	5.577856
+"59T"	" 73 "	"Alive"	2	"No chemotherapy"	1	57	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.901403
+"5T"	" 54 "	"Alive"	3	"Chemotherapy"	1	52	"Female"	"Mixed"	"Positive"	"Positive"	""	""	5.958471
+"63T"	" 35 "	"Deceased"	3	"Chemotherapy"	1	58	"Male"	"Intestinal"	"Positive"	"Negative"	"Cardia"	""	6.179322
+"64T"	" 8 "	"Deceased"	3	"Chemotherapy"	1	57	"Male"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	5.66465
+"6T"	" 53 "	"Alive"	3	"Chemotherapy"	1	61	"Male"	"Intestinal"	"Positive"	"Positive"	""	""	6.353843
+"8T"	" 53 "	"Alive"	3	"Chemotherapy"	1	52	"Male"	"Intestinal"	"Positive"	"Negative"	""	""	6.262782
+"9T"	" 53 "	"Alive"	3	"Chemotherapy"	1	66	"Male"	"Intestinal"	"Positive"	"Negative"	""	""	6.065445
+"10001T"	" 94 "	"Alive"	3	"Chemotherapy"	4	51	"Male"	"Diffuse"	"Positive"	"Positive"	"Body"	""	6.721269
+"10002T"	" 58 "	"Deceased"	3	"Chemotherapy"	4	56	"Male"	"Diffuse"	"Positive"	"Positive"	"Body"	""	6.49577
+"10004T"	" 90 "	"Alive"	3	"Chemotherapy"	4	69	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	6.685876
+"10006T"	" 22 "	"Deceased"	4	"Chemotherapy"	4	38	"Female"	"Diffuse"	"Negative"	"Positive"	"Body"	""	5.979817
+"10009T"	" 39 "	"Deceased"	3	"Chemotherapy"	4	44	"Female"	"Diffuse"	"Positive"	"Positive"	"Body"	""	6.230518
+"10011T"	" 28 "	"Deceased"	3	"Chemotherapy"	4	62	"Male"	"Diffuse"	"Negative"	"Positive"	"Body"	""	6.154095
+"10012T"	" 32 "	"Deceased"	3	"Chemotherapy"	4	67	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.731977
+"10024T"	" 12 "	"Deceased"	3	"Chemotherapy"	4	73	"Female"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.919815
+"10032T"	" 87 "	"Alive"	2	"Chemotherapy"	4	51	"Male"	"Diffuse"	"Negative"	"Positive"	"Body"	""	6.314032
+"10056T"	" 24 "	"Deceased"	3	"No chemotherapy"	4	72	"Male"	"Mixed"	"Positive"	"Positive"	"Cardia"	""	6.203431
+"10058T"	" 12 "	"Deceased"	2	"Chemotherapy"	4	58	"Male"	"Diffuse"	"Negative"	"Negative"	"Body"	""	6.417841
+"10060T"	" 85 "	"Alive"	3	"Chemotherapy"	4	33	"Female"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.999323
+"10072T"	" 25 "	"Deceased"	2	"No chemotherapy"	4	78	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.812272
+"10081T"	" 65 "	"Deceased"	2	"Chemotherapy"	4	49	"Female"	"Diffuse"	"Negative"	"Positive"	"Antrum"	""	6.490414
+"10087T"	" 11 "	"Deceased"	3	"Chemotherapy"	4	44	"Male"	"Mixed"	"Positive"	"Positive"	"Antrum"	""	5.921838
+"10088T"	" 43 "	"Deceased"	3	"Chemotherapy"	4	51	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	6.39705
+"10100T"	" 62 "	"Deceased"	2	"Chemotherapy"	4	59	"Male"	"Diffuse"	"Positive"	"Positive"	"Body"	""	5.680558
+"10106T"	" 86 "	"Alive"	3	"Chemotherapy"	4	68	"Female"	"Mixed"	"Positive"	"Positive"	"Cardia"	""	6.159583
+"10107T"	" 80 "	"Alive"	2	"Chemotherapy"	4	57	"Female"	"Diffuse"	"Negative"	"Negative"	"Body"	""	6.404302
+"10109T"	" 84 "	"Alive"	2	"Chemotherapy"	4	44	"Female"	"Diffuse"	"Positive"	"Negative"	"Body"	""	5.520251
+"10111T"	" 82 "	"Alive"	3	"Chemotherapy"	4	52	"Male"	"Intestinal"	"Positive"	"Positive"	"Cardia"	""	6.28618
+"10112T"	" 11 "	"Deceased"	3	"Chemotherapy"	4	72	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	6.054315
+"10115T"	" 3 "	"Deceased"	2	"No chemotherapy"	4	60	"Male"	"Mixed"	"Negative"	"Negative"	"Body"	""	5.741582
+"10119T"	" 19 "	"Deceased"	2	"Chemotherapy"	4	32	"Female"	"Diffuse"	"Negative"	"Positive"	"Antrum"	""	6.310494
+"10122T"	" 78 "	"Alive"	3	"Chemotherapy"	4	52	"Male"	"Intestinal"	"Negative"	"Positive"	"Body"	""	5.514456
+"10123T"	" 25 "	"Deceased"	3	"Chemotherapy"	4	61	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.983613
+"10127T"	" 13 "	"Deceased"	2	"No chemotherapy"	4	65	"Male"	"Intestinal"	"Positive"	"Positive"	"Cardia"	""	5.824816
+"10130T"	" 23 "	"Deceased"	2	"No chemotherapy"	4	71	"Male"	"Intestinal"	"Positive"	"Positive"	"Body"	""	6.011615
+"10131T"	" 77 "	"Alive"	3	"Chemotherapy"	4	71	"Male"	"Mixed"	"Negative"	"Positive"	"Body"	""	6.438748
+"10132T"	" 64 "	"Deceased"	3	"Chemotherapy"	4	72	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.976168
+"10133T"	" 51 "	"Deceased"	3	"Chemotherapy"	4	56	"Male"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	6.955317
+"10143T"	" 15 "	"Deceased"	3	"No chemotherapy"	4	74	"Male"	"Diffuse"	"Positive"	"Negative"	"Body"	""	5.927152
+"10148T"	" 21 "	"Deceased"	3	"Chemotherapy"	4	74	"Male"	"Mixed"	"Positive"	"Negative"	"Cardia"	""	5.993142
+"10152T"	" 74 "	"Alive"	3	"Chemotherapy"	4	53	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	""	6.243196
+"10153T"	" 74 "	"Alive"	3	"Chemotherapy"	4	79	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	""	6.624529
+"10154T"	" 82 "	"Alive"	2	"No chemotherapy"	4	61	"Female"	"Diffuse"	"Positive"	"Positive"	"Body"	""	6.342249
+"10159T"	" 67 "	"Deceased"	3	"Chemotherapy"	4	54	"Female"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.916621
+"10161T"	" 73 "	"Alive"	3	"No chemotherapy"	4	38	"Male"	"Diffuse"	"Positive"	"Negative"	"Body"	""	6.276007
+"10164T"	" 6 "	"Deceased"	3	"No chemotherapy"	4	65	"Male"	"Other"	"Positive"	"Positive"	"Body"	""	6.42184
+"10166T"	" 8 "	"Deceased"	2	"Chemotherapy"	4	73	"Female"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	6.361231
+"10167T"	" 23 "	"Deceased"	3	"Chemotherapy"	4	76	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	6.380893
+"10169T"	" 29 "	"Deceased"	3	"Chemotherapy"	4	69	"Male"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	6.566708
+"10172T"	" 77 "	"Alive"	3	"Chemotherapy"	4	68	"Male"	"Intestinal"	"Negative"	"Positive"	"Body"	""	6.140814
+"10181T"	" 23 "	"Deceased"	3	"Chemotherapy"	4	50	"Male"	"Diffuse"	"Negative"	"Positive"	"Antrum"	""	5.987101
+"10184T"	" 70 "	"Alive"	2	"No chemotherapy"	4	53	"Female"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	7.004816
+"10186T"	" 77 "	"Alive"	3	"Chemotherapy"	4	46	"Male"	"Diffuse"	"Positive"	"Negative"	"Body"	""	6.579193
+"10189T"	" 74 "	"Alive"	2	"Chemotherapy"	4	43	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	""	6.71212
+"10191T"	" 70 "	"Alive"	3	"Chemotherapy"	4	65	"Male"	"Diffuse"	"Positive"	"Positive"	"Body"	""	5.985161
+"10192T"	" 69 "	"Alive"	2	"Chemotherapy"	4	66	"Female"	"Diffuse"	"Negative"	"Positive"	"Antrum"	""	6.43466
+"10195T"	" 17 "	"Deceased"	3	"Chemotherapy"	4	63	"Male"	"Intestinal"	"Negative"	"Positive"	"Antrum"	""	6.882466
+"10199T"	" 69 "	"Alive"	3	"Chemotherapy"	4	32	"Female"	"Diffuse"	"Negative"	"Positive"	"Antrum"	""	6.739735
+"11T"	" 81 "	"Alive"	3	"Chemotherapy"	4	51	"Male"	"Diffuse"	"Positive"	"Positive"	"Cardia"	""	6.233303
+"13T"	" 50 "	"Alive"	3	"Chemotherapy"	4	65	"Male"	"Intestinal"	"Positive"	"Positive"	""	""	6.591706
+"15T"	" 73 "	"Alive"	3	"No chemotherapy"	4	41	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	""	7.124751
+"16T"	" 71 "	"Alive"	3	"No chemotherapy"	4	68	"Male"	"Diffuse"	"Negative"	"Positive"	"Body"	""	6.331254
+"17T"	" 29 "	"Deceased"	3	"Chemotherapy"	4	75	"Female"	"Diffuse"	"Negative"	"Negative"	""	""	7.895821
+"18T"	" 24 "	"Deceased"	3	"Chemotherapy"	4	43	"Male"	"Diffuse"	"Positive"	"Negative"	""	""	7.160284
+"2234T"	" 27 "	"Deceased"	3	"Chemotherapy"	4	64	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	6.015652
+"22T"	" 46 "	"Deceased"	3	"No chemotherapy"	4	66	"Male"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	6.475123
+"2358T"	" 149 "	"Alive"	2	"Chemotherapy"	4	36	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	5.784552
+"2359T"	" 22 "	"Deceased"	3	"Chemotherapy"	4	64	"Male"	"Diffuse"	"Negative"	"Negative"	"Body"	""	5.965855
+"2372T"	" 149 "	"Alive"	3	"Chemotherapy"	4	39	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Positive"	6.087769
+"23T"	" 49 "	"Deceased"	3	"Chemotherapy"	4	61	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	6.447604
+"2473T"	" 152 "	"Alive"	3	"Chemotherapy"	4	55	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	7.267827
+"24T"	" 57 "	"Deceased"	2	"No chemotherapy"	4	49	"Female"	"Diffuse"	"Negative"	"Positive"	"Antrum"	""	6.77032
+"2523T"	" 144 "	"Alive"	2	"Chemotherapy"	4	69	"Female"	"Diffuse"	"Positive"	"Negative"	"Cardia"	"Positive"	5.884337
+"2553T"	" 34 "	"Deceased"	3	"Chemotherapy"	4	34	"Male"	"Diffuse"	"Negative"	"Negative"	""	"Negative"	5.849812
+"2555T"	" 39 "	"Deceased"	3	"Chemotherapy"	4	44	"Male"	"Diffuse"	"Negative"	"Negative"	"Body"	"Negative"	6.27936
+"25T"	" 72 "	"Alive"	3	"No chemotherapy"	4	58	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	6.824839
+"2659T"	" 31 "	"Deceased"	2	"Chemotherapy"	4	86	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	5.908016
+"2691T"	" 37 "	"Deceased"	2	"Chemotherapy"	4	62	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	"Negative"	5.877922
+"26T"	" 66 "	"Alive"	2	"No chemotherapy"	4	67	"Male"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	7.033804
+"2711T"	" 141 "	"Alive"	3	"Chemotherapy"	4	55	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	6.538472
+"2769T"	" 34 "	"Deceased"	2	"Chemotherapy"	4	61	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	5.786332
+"2785T"	" 140 "	"Alive"	3	"Chemotherapy"	4	48	"Female"	"Mixed"	"Positive"	"Negative"	"Body"	"Negative"	6.122205
+"2858T"	" 138 "	"Alive"	3	"Chemotherapy"	4	68	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.702566
+"28T"	" 62 "	"Alive"	2	"Chemotherapy"	4	41	"Male"	"Diffuse"	"Negative"	"Positive"	"Antrum"	""	5.837878
+"2980T"	" 41 "	"Deceased"	2	"Chemotherapy"	4	60	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	5.802496
+"29T"	" 62 "	"Alive"	2	"No chemotherapy"	4	53	"Female"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.934986
+"2T"	" 78 "	"Alive"	3	"Chemotherapy"	4	57	"Female"	"Diffuse"	"Positive"	"Negative"	"Body"	""	6.522227
+"3054T"	" 134 "	"Alive"	2	"Chemotherapy"	4	52	"Female"	"Diffuse"	"Negative"	"Negative"	"Body"	"Negative"	5.942087
+"3090T"	" 140 "	"Alive"	3	"Chemotherapy"	4	47	"Male"	"Other"	"Negative"	"Negative"	"Cardia"	"Positive"	6.466293
+"3092T"	" 134 "	"Alive"	3	"Chemotherapy"	4	63	"Female"	"Diffuse"	"Negative"	"Negative"	"Body"	"Negative"	6.39264
+"3194T"	" 60 "	"Deceased"	3	"Chemotherapy"	4	74	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	"Negative"	7.564781
+"3233T"	" 74 "	"Deceased"	3	"Chemotherapy"	4	63	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	"Negative"	6.372642
+"3244T"	" 79 "	"Deceased"	2	"Chemotherapy"	4	49	"Female"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	6.83948
+"3341T"	" 129 "	"Alive"	2	"No chemotherapy"	4	68	"Female"	"Diffuse"	"Positive"	"Negative"	"Body"	"Negative"	5.925546
+"3347T"	" 132 "	"Alive"	3	"Chemotherapy"	4	36	"Male"	"Intestinal"	"Positive"	"Negative"	"Body"	""	6.89905
+"3382T"	" 128 "	"Alive"	3	"Chemotherapy"	4	45	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	8.052691
+"3402T"	" 5 "	"Deceased"	3	"Chemotherapy"	4	61	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	9.384303
+"3417T"	" 10 "	"Deceased"	3	"Chemotherapy"	4	58	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	6.549763
+"3428T"	" 34 "	"Deceased"	3	"Chemotherapy"	4	34	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	"Negative"	7.503921
+"3455T"	" 126 "	"Alive"	2	"Chemotherapy"	4	47	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	7.228575
+"3456T"	" 87 "	"Deceased"	3	"Chemotherapy"	4	62	"Female"	"Diffuse"	"Positive"	"Positive"	"Body"	"Negative"	6.500626
+"3467T"	" 39 "	"Deceased"	2	"Chemotherapy"	4	68	"Female"	"Diffuse"	"Negative"	"Negative"	"Body"	"Negative"	6.061119
+"3482T"	" 133 "	"Alive"	2	"No chemotherapy"	4	67	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	6.661284
+"34T"	" 27 "	"Deceased"	3	"No chemotherapy"	4	43	"Female"	"Diffuse"	"Negative"	"Positive"	"Antrum"	""	5.859742
+"3515T"	" 17 "	"Deceased"	3	"Chemotherapy"	4	67	"Female"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	6.021678
+"3532T"	" 13 "	"Deceased"	3	"Chemotherapy"	4	55	"Male"	"Diffuse"	"Negative"	"Negative"	"Body"	"Negative"	6.036847
+"3533T"	" 19 "	"Deceased"	3	"Chemotherapy"	4	66	"Female"	"Intestinal"	"Positive"	"Negative"	"Body"	"Negative"	6.273244
+"3544T"	" 126 "	"Alive"	2	"Chemotherapy"	4	44	"Male"	"Diffuse"	"Negative"	"Positive"	"Body"	"Negative"	5.716375
+"3550T"	" 124 "	"Alive"	3	"Chemotherapy"	4	73	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	6.413362
+"3555T"	" 68 "	"Deceased"	3	"Chemotherapy"	4	36	"Female"	"Other"	"Positive"	"Negative"	"Antrum"	"Negative"	5.847683
+"3569T"	" 2 "	"Deceased"	3	"Chemotherapy"	4	63	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	6.977841
+"3572T"	" 123 "	"Alive"	3	"Chemotherapy"	4	42	"Female"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	6.638995
+"3603T"	" 123 "	"Alive"	2	"Chemotherapy"	4	32	"Female"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	6.425505
+"3649T"	" 122 "	"Alive"	2	"Chemotherapy"	4	55	"Male"	"Other"	"Negative"	"Negative"	"Body"	"Positive"	5.637613
+"3715T"	" 124 "	"Alive"	3	"Chemotherapy"	4	48	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	5.551567
+"3737T"	" 126 "	"Alive"	3	"Chemotherapy"	4	55	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	"Negative"	6.694479
+"3757T"	" 120 "	"Alive"	3	"Chemotherapy"	4	60	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	6.119593
+"3768T"	" 27 "	"Deceased"	3	"Chemotherapy"	4	66	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	6.24987
+"3823T"	" 119 "	"Alive"	3	"Chemotherapy"	4	58	"Male"	"Diffuse"	"Positive"	"Negative"	"Cardia"	"Positive"	6.368647
+"3847T"	" 36 "	"Deceased"	3	"Chemotherapy"	4	63	"Female"	"Other"	"Positive"	"Negative"	"Body"	"Negative"	6.18887
+"3873T"	" 1 "	"Deceased"	3	"Chemotherapy"	4	68	"Male"	"Diffuse"	"Positive"	"Negative"	"Cardia"	"Negative"	6.218184
+"3884T"	" 35 "	"Deceased"	3	"Chemotherapy"	4	40	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	6.610921
+"3885T"	" 5 "	"Deceased"	4	"Chemotherapy"	4	67	"Male"	"Other"	"Negative"	"Negative"	"Whole"	""	6.560852
+"3920T"	" 25 "	"Deceased"	4	"Chemotherapy"	4	36	"Female"	"Other"	"Negative"	"Negative"	"Body"	""	7.629016
+"3932T"	" 87 "	"Deceased"	3	"Chemotherapy"	4	83	"Male"	"Other"	"Negative"	"Negative"	"Whole"	""	7.790733
+"3958T"	" 12 "	"Deceased"	4	"Chemotherapy"	4	55	"Male"	"Other"	"Positive"	"Negative"	"Antrum"	""	7.450066
+"4001T"	" 42 "	"Deceased"	2	"Chemotherapy"	4	44	"Male"	"Diffuse"	"Negative"	"Negative"	"Body"	"Negative"	6.573235
+"4092T"	" 121 "	"Alive"	2	"No chemotherapy"	4	73	"Female"	"Other"	"Negative"	"Negative"	"Body"	"Negative"	6.759956
+"4095T"	" 44 "	"Deceased"	3	"Chemotherapy"	4	62	"Male"	"Other"	"Positive"	"Negative"	"Body"	"Negative"	6.866834
+"4138T"	" 114 "	"Alive"	3	"Chemotherapy"	4	62	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	6.617552
+"4189T"	" 4 "	"Deceased"	4	"Chemotherapy"	4	48	"Male"	"Diffuse"	"Positive"	"Negative"	"Body"	""	6.349901
+"4198T"	" 24 "	"Deceased"	3	"Chemotherapy"	4	75	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	6.853742
+"4216T"	" 9 "	"Deceased"	4	"Chemotherapy"	4	32	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	""	6.749206
+"4221T"	" 79 "	"Deceased"	3	"Chemotherapy"	4	49	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	7.064279
+"4222T"	" 23 "	"Deceased"	2	"Chemotherapy"	4	69	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	7.193084
+"4244T"	" 43 "	"Deceased"	3	"Chemotherapy"	4	47	"Male"	"Other"	"Negative"	"Negative"	"Body"	"Negative"	6.915276
+"4245T"	" 111 "	"Alive"	3	"Chemotherapy"	4	53	"Female"	"Other"	"Negative"	"Negative"	"Cardia"	"Positive"	6.400937
+"4253T"	" 40 "	"Deceased"	3	"Chemotherapy"	4	52	"Male"	"Other"	"Positive"	"Negative"	"Cardia"	""	6.934658
+"4256T"	" 1 "	"Deceased"	4	"Chemotherapy"	4	61	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	""	6.252865
+"4260T"	" 116 "	"Alive"	2	"Chemotherapy"	4	51	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	6.307376
+"4305T"	" 110 "	"Alive"	2	"Chemotherapy"	4	68	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.773434
+"4348T"	" 110 "	"Alive"	3	"Chemotherapy"	4	66	"Male"	"Diffuse"	"Negative"	"Negative"	"Body"	"Negative"	6.364875
+"4397T"	" 43 "	"Deceased"	3	"Chemotherapy"	4	35	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	""	6.780667
+"4539T"	" 106 "	"Alive"	3	"Chemotherapy"	4	53	"Male"	"Other"	"Negative"	"Negative"	"Body"	""	6.001285
+"4568T"	" 5 "	"Deceased"	3	"Chemotherapy"	4	61	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	""	7.399774
+"4626T"	" 103 "	"Alive"	2	"Chemotherapy"	4	65	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	""	6.089808
+"4634T"	" 51 "	"Deceased"	3	"Chemotherapy"	4	32	"Male"	"Other"	"Negative"	"Negative"	"Whole"	""	6.317374
+"4698T"	" 37 "	"Deceased"	3	"Chemotherapy"	4	47	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	6.702797
+"4780T"	" 22 "	"Deceased"	3	"Chemotherapy"	4	41	"Female"	"Other"	"Positive"	"Negative"	"Body"	""	6.092067
+"49T"	" 12 "	"Deceased"	3	"Chemotherapy"	4	59	"Female"	"Diffuse"	"Negative"	"Positive"	"Antrum"	""	7.30904
+"515T"	" 59 "	"Alive"	1	"No chemotherapy"	4	52	"Male"	"Diffuse"	"Negative"	"Negative"	"Body"	""	5.675136
+"518T"	" 18 "	"Deceased"	3	"No chemotherapy"	4	66	"Female"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	5.956448
+"519T"	" 63 "	"Alive"	3	"Chemotherapy"	4	45	"Male"	"Diffuse"	"Negative"	"Positive"	"Cardia"	""	5.53131
+"52T"	" 55 "	"Alive"	3	"Chemotherapy"	4	44	"Male"	"Diffuse"	"Negative"	"Positive"	"Body"	""	6.095047
+"558T"	" 7 "	"Deceased"	4	"No chemotherapy"	4	72	"Male"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	6.443514
+"561T"	" 41 "	"Alive"	2	"Chemotherapy"	4	57	"Female"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	6.646255
+"563T"	" 47 "	"Alive"	3	"Chemotherapy"	4	63	"Male"	"Diffuse"	"Positive"	"Positive"	"Body"	""	6.112322
+"564T"	" 19 "	"Deceased"	3	"Chemotherapy"	4	65	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	6.214895
+"571T"	" 33 "	"Deceased"	3	"Chemotherapy"	4	63	"Male"	"Diffuse"	"Positive"	"Positive"	"Body"	""	6.194556
+"578T"	" 41 "	"Alive"	3	"Chemotherapy"	4	64	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	""	6.654178
+"580T"	" 40 "	"Alive"	3	"Chemotherapy"	4	65	"Male"	"Diffuse"	"Negative"	"Positive"	"Antrum"	""	6.168111
+"583T"	" 41 "	"Alive"	3	"Chemotherapy"	4	50	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	""	6.100016
+"58T"	" 73 "	"Alive"	3	"Chemotherapy"	4	59	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	8.351347
+"591T"	" 38 "	"Alive"	3	"Chemotherapy"	4	46	"Male"	"Intestinal"	"Negative"	"Positive"	"Body"	""	6.171366
+"61T"	" 66 "	"Alive"	3	"No chemotherapy"	4	49	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	6.300387
+"10005T"	" 93 "	"Alive"	3	"Chemotherapy"	2	63	"Male"	"Diffuse"	"Negative"	"Negative"	"Cardia"	""	5.608821
+"10007T"	" 97 "	"Alive"	3	"Chemotherapy"	2	58	"Male"	"Mixed"	"Positive"	"Positive"	"Antrum"	""	5.744922
+"10008T"	" 90 "	"Alive"	3	"Chemotherapy"	2	70	"Female"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.9781
+"10013T"	" 89 "	"Alive"	3	"Chemotherapy"	2	69	"Male"	"Mixed"	"Positive"	"Positive"	"Antrum"	""	5.617089
+"10029T"	" -   "	"Deceased"	3	"No chemotherapy"	2	79	"Male"	"Mixed"	"Negative"	"Negative"	"Antrum"	""	5.871401
+"10052T"	" 70 "	"Deceased"	2	"Chemotherapy"	2	61	"Male"	"Intestinal"	"Negative"	"Positive"	"Antrum"	""	5.820077
+"10055T"	" 23 "	"Deceased"	3	"Chemotherapy"	2	47	"Female"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	5.797654
+"10057T"	" 59 "	"Deceased"	3	"Chemotherapy"	2	78	"Male"	"Intestinal"	"Positive"	"Negative"	"Body"	""	5.765341
+"10063T"	" 18 "	"Deceased"	3	"Chemotherapy"	2	81	"Female"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.676939
+"10065T"	" 14 "	"Deceased"	3	"Chemotherapy"	2	60	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.858021
+"10079T"	" 84 "	"Alive"	3	"Chemotherapy"	2	61	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.7797
+"10094T"	" 82 "	"Alive"	2	"Chemotherapy"	2	58	"Female"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.580219
+"10098T"	" 81 "	"Alive"	2	"Chemotherapy"	2	77	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	6.003412
+"10103T"	" 80 "	"Alive"	2	"No chemotherapy"	2	85	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.889562
+"10113T"	" 86 "	"Alive"	2	"Chemotherapy"	2	59	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.470336
+"10117T"	" 4 "	"Deceased"	3	"No chemotherapy"	2	78	"Female"	"Diffuse"	"Positive"	"Negative"	"Body"	""	5.591473
+"10120T"	" 21 "	"Deceased"	2	"No chemotherapy"	2	68	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	""	5.77649
+"10121T"	" 17 "	"Deceased"	2	"Chemotherapy"	2	74	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	""	5.933083
+"10129T"	" 57 "	"Deceased"	3	"Chemotherapy"	2	71	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	""	6.157209
+"10136T"	" 77 "	"Alive"	3	"Chemotherapy"	2	66	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.995238
+"10140T"	" 77 "	"Alive"	2	"Chemotherapy"	2	56	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.874533
+"10144T"	" 75 "	"Alive"	3	"No chemotherapy"	2	63	"Male"	"Mixed"	"Positive"	"Negative"	"Cardia"	""	5.894412
+"10146T"	" 84 "	"Alive"	2	"Chemotherapy"	2	68	"Male"	"Mixed"	"Positive"	"Negative"	"Body"	""	5.621479
+"10150T"	" 80 "	"Alive"	3	"Chemotherapy"	2	62	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.969833
+"10155T"	" 80 "	"Alive"	3	"Chemotherapy"	2	60	"Female"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.911491
+"10168T"	" 8 "	"Deceased"	3	"No chemotherapy"	2	78	"Female"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	6.266468
+"10170T"	" 83 "	"Alive"	2	"No chemotherapy"	2	68	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.798987
+"10171T"	" 77 "	"Alive"	3	"Chemotherapy"	2	27	"Male"	"Intestinal"	"Positive"	"Positive"	"Cardia"	""	5.974115
+"10173T"	" 1 "	"Deceased"	3	"No chemotherapy"	2	73	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.869711
+"10177T"	" 71 "	"Alive"	3	"Chemotherapy"	2	73	"Female"	"Diffuse"	"Positive"	"Negative"	"Antrum"	""	5.88273
+"10178T"	" 70 "	"Alive"	3	"Chemotherapy"	2	55	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	6.132595
+"10179T"	" 71 "	"Alive"	3	"Chemotherapy"	2	65	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.813958
+"10182T"	" 21 "	"Deceased"	2	"Chemotherapy"	2	56	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	""	5.826317
+"10188T"	" 70 "	"Alive"	2	"Chemotherapy"	2	68	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	6.070302
+"10198T"	" 72 "	"Alive"	3	"Chemotherapy"	2	73	"Male"	"Diffuse"	"Positive"	"Negative"	"Cardia"	""	5.769941
+"10200T"	" 68 "	"Alive"	2	"Chemotherapy"	2	75	"Female"	"Diffuse"	"Negative"	"Positive"	"Cardia"	""	5.522843
+"21T"	" 61 "	"Deceased"	3	"No chemotherapy"	2	46	"Male"	"Intestinal"	"Positive"	"Positive"	"Body"	""	6.097458
+"2264T"	" 14 "	"Deceased"	2	"Chemotherapy"	2	62	"Male"	"Other"	"Positive"	""	"Antrum"	"Negative"	5.746711
+"2411T"	" 135 "	"Deceased"	3	"Chemotherapy"	2	68	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.87329
+"2423T"	" 10 "	"Deceased"	3	"Chemotherapy"	2	57	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.951062
+"2449T"	" 12 "	"Deceased"	3	"Chemotherapy"	2	47	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	6.109942
+"2497T"	" 9 "	"Deceased"	3	"Chemotherapy"	2	61	"Male"	"Other"	"Negative"	"Negative"	"Body"	""	5.660923
+"2498T"	" 45 "	"Deceased"	3	"Chemotherapy"	2	51	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	""	5.809229
+"2507T"	" 144 "	"Alive"	3	"Chemotherapy"	2	45	"Female"	"Intestinal"	"Positive"	"Negative"	"Body"	"Negative"	5.7007
+"2540T"	" 144 "	"Alive"	3	"Chemotherapy"	2	61	"Male"	"Diffuse"	"Positive"	"Negative"	"Body"	""	5.635689
+"2566T"	" 123 "	"Deceased"	2	"Chemotherapy"	2	77	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	"Negative"	5.868171
+"2597T"	" 149 "	"Alive"	2	"Chemotherapy"	2	58	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.904497
+"2602T"	" 149 "	"Alive"	3	"Chemotherapy"	2	42	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	5.71302
+"2609T"	" 37 "	"Deceased"	2	"Chemotherapy"	2	64	"Male"	"Other"	"Negative"	"Negative"	"Cardia"	"Negative"	5.839457
+"2622T"	" 151 "	"Alive"	2	"No chemotherapy"	2	59	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.864534
+"2637T"	" 150 "	"Alive"	2	"Chemotherapy"	2	51	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	6.034648
+"2656T"	" 22 "	"Deceased"	3	"Chemotherapy"	2	60	"Male"	"Diffuse"	"Positive"	"Negative"	"Body"	"Negative"	6.082588
+"2663T"	" 7 "	"Deceased"	3	"Chemotherapy"	2	70	"Male"	"Intestinal"	"Positive"	"Negative"	"Body"	"Negative"	6.25908
+"2776T"	" 18 "	"Deceased"	3	"Chemotherapy"	2	63	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	6.20614
+"27T"	" 71 "	"Alive"	3	"Chemotherapy"	2	63	"Male"	"Intestinal"	"Positive"	"Positive"	"Body"	""	5.892888
+"2833T"	" 139 "	"Alive"	3	"Chemotherapy"	2	57	"Male"	"Intestinal"	"Positive"	"Negative"	"Body"	""	5.91503
+"2845T"	" 20 "	"Deceased"	3	"Chemotherapy"	2	64	"Male"	"Intestinal"	"Negative"	"Negative"	"Cardia"	"Negative"	6.16536
+"2869T"	" 138 "	"Alive"	3	"Chemotherapy"	2	68	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	6.084977
+"2985T"	" 136 "	"Alive"	2	"Chemotherapy"	2	62	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	6.346221
+"2993T"	" 15 "	"Deceased"	3	"Chemotherapy"	2	61	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	5.561566
+"3034T"	" 143 "	"Alive"	2	"No chemotherapy"	2	62	"Male"	"Intestinal"	"Negative"	"Negative"	"Cardia"	"Negative"	5.50311
+"3089T"	" 134 "	"Alive"	3	"Chemotherapy"	2	64	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.758384
+"3094T"	" 40 "	"Deceased"	3	"Chemotherapy"	2	44	"Male"	"Other"	"Negative"	"Negative"	"Body"	"Negative"	6.269583
+"3099T"	" -   "	"Deceased"	3	"No chemotherapy"	2	65	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	6.020067
+"3108T"	" 40 "	"Deceased"	2	"Chemotherapy"	2	66	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	5.344609
+"3117T"	" 137 "	"Alive"	2	"Chemotherapy"	2	75	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	6.256003
+"3151T"	" 77 "	"Deceased"	2	"No chemotherapy"	2	70	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	5.76149
+"3164T"	" 132 "	"Alive"	3	"Chemotherapy"	2	56	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	6.376757
+"3181T"	" 17 "	"Alive"	3	"No chemotherapy"	2	76	"Male"	""	""	""	""	"Negative"	5.563977
+"3203T"	" 131 "	"Alive"	2	"Chemotherapy"	2	53	"Female"	"Diffuse"	"Negative"	"Negative"	"Body"	"Negative"	5.818521
+"3220T"	" 22 "	"Deceased"	3	"Chemotherapy"	2	64	"Male"	"Intestinal"	"Positive"	"Negative"	"Body"	"Negative"	5.719704
+"3262T"	" 132 "	"Alive"	3	"Chemotherapy"	2	34	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	"Negative"	5.559413
+"32T"	" 61 "	"Alive"	2	"No chemotherapy"	2	39	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.733459
+"3307T"	" 37 "	"Deceased"	3	"Chemotherapy"	2	59	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	6.813118
+"3309T"	" 131 "	"Alive"	3	"Chemotherapy"	2	55	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.473821
+"3320T"	" 4 "	"Deceased"	3	"Chemotherapy"	2	69	"Male"	"Diffuse"	"Positive"	"Negative"	"Body"	"Negative"	5.612978
+"3333T"	" 129 "	"Alive"	2	"Chemotherapy"	2	69	"Male"	"Diffuse"	"Positive"	"Negative"	"Body"	"Negative"	5.909812
+"3335T"	" 14 "	"Deceased"	3	"Chemotherapy"	2	66	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	"Negative"	5.759976
+"3344T"	" 131 "	"Alive"	2	"Chemotherapy"	2	48	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	5.945318
+"3361T"	" 132 "	"Alive"	3	"Chemotherapy"	2	43	"Male"	"Diffuse"	"Negative"	"Negative"	"Cardia"	"Positive"	5.954819
+"3368T"	" 128 "	"Alive"	2	"Chemotherapy"	2	54	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.775243
+"3372T"	" 49 "	"Deceased"	3	"Chemotherapy"	2	38	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	6.032139
+"3381T"	" 128 "	"Alive"	3	"Chemotherapy"	2	59	"Male"	"Mixed"	"Negative"	"Negative"	"Antrum"	"Negative"	5.902841
+"3396T"	" 127 "	"Alive"	3	"Chemotherapy"	2	49	"Male"	"Intestinal"	"Positive"	"Negative"	"Body"	"Negative"	6.208926
+"3404T"	" 7 "	"Deceased"	3	"Chemotherapy"	2	64	"Female"	"Diffuse"	"Positive"	"Negative"	"Antrum"	"Negative"	5.573503
+"3420T"	" 34 "	"Deceased"	3	"Chemotherapy"	2	48	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	6.211794
+"3473T"	" 126 "	"Alive"	3	"Chemotherapy"	2	27	"Male"	"Mixed"	"Negative"	"Negative"	"Antrum"	"Positive"	5.997203
+"3484T"	" 12 "	"Deceased"	3	"Chemotherapy"	2	54	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	6.289654
+"3512T"	" 26 "	"Deceased"	3	"Chemotherapy"	2	64	"Male"	"Diffuse"	"Positive"	"Negative"	"Body"	"Negative"	6.338704
+"3558T"	" 93 "	"Deceased"	3	"Chemotherapy"	2	66	"Male"	"Intestinal"	"Positive"	"Negative"	"Body"	"Negative"	5.444272
+"3566T"	" 21 "	"Deceased"	3	"Chemotherapy"	2	62	"Male"	"Intestinal"	"Positive"	"Negative"	"Body"	"Negative"	6.669005
+"3607T"	" 46 "	"Deceased"	3	"Chemotherapy"	2	66	"Male"	"Mixed"	"Positive"	"Negative"	"Cardia"	"Negative"	5.778056
+"3614T"	" 9 "	"Deceased"	3	"Chemotherapy"	2	72	"Female"	"Intestinal"	"Positive"	"Negative"	"Body"	"Negative"	5.856155
+"3624T"	" 128 "	"Alive"	3	"Chemotherapy"	2	74	"Male"	"Other"	""	""	""	""	5.751869
+"3646T"	" 95 "	"Deceased"	3	"Chemotherapy"	2	60	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.97199
+"3657T"	" 122 "	"Alive"	3	"Chemotherapy"	2	64	"Female"	"Other"	"Positive"	"Negative"	"Antrum"	""	5.936359
+"36T"	" 25 "	"Deceased"	3	"Chemotherapy"	2	68	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	""	5.967925
+"3747T"	" 120 "	"Alive"	2	"No chemotherapy"	2	69	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	5.918251
+"3769T"	" 38 "	"Deceased"	3	"Chemotherapy"	2	61	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	5.726538
+"37T"	" 67 "	"Alive"	2	"No chemotherapy"	2	40	"Female"	"Diffuse"	"Negative"	"Positive"	"Body"	""	5.477232
+"3819T"	" 119 "	"Alive"	3	"Chemotherapy"	2	46	"Male"	"Mixed"	"Negative"	"Negative"	"Antrum"	"Negative"	6.143588
+"3838T"	" 1 "	"Deceased"	4	"No chemotherapy"	2	68	"Male"	"Other"	"Positive"	"Negative"	"Antrum"	"Negative"	6.151677
+"3844T"	" 119 "	"Alive"	1	"No chemotherapy"	2	56	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	6.045444
+"3846T"	" 119 "	"Alive"	2	"Chemotherapy"	2	41	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	6.247131
+"3863T"	" 118 "	"Alive"	3	"Chemotherapy"	2	52	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.810639
+"3868T"	" 10 "	"Deceased"	3	"Chemotherapy"	2	74	"Male"	"Other"	"Positive"	"Negative"	"Antrum"	"Negative"	6.516925
+"3883T"	" 118 "	"Alive"	3	"Chemotherapy"	2	71	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.866038
+"3887T"	" 49 "	"Deceased"	1	"Chemotherapy"	2	68	"Female"	"Other"	"Positive"	"Negative"	"Body"	""	5.821756
+"3894T"	" 118 "	"Alive"	2	"No chemotherapy"	2	74	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	6.176307
+"38T"	" 60 "	"Deceased"	3	"No chemotherapy"	2	61	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	7.350635
+"4053T"	" 115 "	"Alive"	1	"No chemotherapy"	2	56	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.897759
+"4101T"	" 115 "	"Alive"	2	"Chemotherapy"	2	79	"Female"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	5.891181
+"41T"	" 15 "	"Deceased"	3	"No chemotherapy"	2	41	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.593619
+"4277T"	" 111 "	"Alive"	3	"Chemotherapy"	2	66	"Female"	"Other"	"Positive"	"Negative"	"Antrum"	""	6.017508
+"4340T"	" 23 "	"Deceased"	3	"Chemotherapy"	2	34	"Male"	"Other"	"Negative"	"Negative"	"Body"	""	5.691806
+"4344T"	" 46 "	"Deceased"	2	"Chemotherapy"	2	61	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.536574
+"4409T"	" 17 "	"Deceased"	3	"Chemotherapy"	2	61	"Male"	"Other"	"Negative"	"Negative"	"Body"	""	6.146207
+"4426T"	" 108 "	"Alive"	2	"Chemotherapy"	2	61	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.528408
+"4427T"	" 116 "	"Alive"	3	"Chemotherapy"	2	36	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	""	5.604372
+"4429T"	" 2 "	"Deceased"	3	""	2	71	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	6.041473
+"4549T"	" 111 "	"Alive"	3	"No chemotherapy"	2	53	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.5061
+"4595T"	" 2 "	"Deceased"	4	"No chemotherapy"	2	80	"Male"	"Other"	"Negative"	"Negative"	"Body"	""	6.050109
+"4635T"	" 104 "	"Alive"	4	"Chemotherapy"	2	53	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.544284
+"4730T"	" 101 "	"Alive"	3	"Chemotherapy"	2	40	"Male"	"Other"	"Positive"	"Negative"	"Body"	""	5.482966
+"4865T"	" 46 "	"Deceased"	2	"Chemotherapy"	2	68	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	5.489032
+"506T"	" 63 "	"Deceased"	2	"No chemotherapy"	2	58	"Male"	"Diffuse"	"Positive"	"Negative"	"Body"	""	5.406929
+"510T"	" 33 "	"Alive"	3	"Chemotherapy"	2	40	"Male"	"Diffuse"	"Positive"	"Negative"	"Cardia"	""	5.815502
+"514T"	" 10 "	"Deceased"	3	"Chemotherapy"	2	61	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	""	5.568634
+"516T"	" 64 "	"Alive"	2	"Chemotherapy"	2	72	"Female"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	5.480288
+"521T"	" 57 "	"Alive"	3	"Chemotherapy"	2	67	"Male"	"Diffuse"	"Positive"	"Positive"	"Whole"	""	5.422787
+"522T"	" 62 "	"Alive"	2	"No chemotherapy"	2	59	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	""	5.437057
+"533T"	" 12 "	"Deceased"	3	"Chemotherapy"	2	63	"Male"	"Mixed"	"Positive"	"Negative"	"Antrum"	""	5.451058
+"540T"	" 55 "	"Alive"	2	"Chemotherapy"	2	67	"Female"	"Diffuse"	"Positive"	"Negative"	"Antrum"	""	5.364119
+"550T"	" 59 "	"Alive"	3	"No chemotherapy"	2	71	"Female"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	5.430015
+"566T"	" 42 "	"Alive"	1	"No chemotherapy"	2	63	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.989084
+"569T"	" 45 "	"Alive"	1	"No chemotherapy"	2	42	"Female"	"Diffuse"	"Positive"	"Negative"	"Antrum"	""	6.137933
+"577T"	" 41 "	"Alive"	2	"Chemotherapy"	2	62	"Male"	"Intestinal"	"Positive"	"Negative"	"Body"	""	5.885802
+"581T"	" 42 "	"Alive"	1	"No chemotherapy"	2	56	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.949226
+"584T"	" 37 "	"Alive"	3	"Chemotherapy"	2	69	"Female"	"Diffuse"	"Positive"	"Positive"	"Body"	""	5.789404
+"585T"	" 40 "	"Alive"	3	"Chemotherapy"	2	48	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	6.135174
+"587T"	" 42 "	"Alive"	2	"Chemotherapy"	2	54	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	6.03898
+"588T"	" 6 "	"Deceased"	3	"Chemotherapy"	2	66	"Male"	"Diffuse"	"Negative"	"Negative"	"Cardia"	""	5.598027
+"589T"	" 36 "	"Alive"	3	"Chemotherapy"	2	69	"Male"	"Intestinal"	"Positive"	"Negative"	"Cardia"	""	5.738641
+"590T"	" 37 "	"Alive"	3	"Chemotherapy"	2	51	"Male"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	5.879456
+"592T"	" 8 "	"Deceased"	3	"No chemotherapy"	2	69	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	6.013761
+"593T"	" 35 "	"Alive"	3	"Chemotherapy"	2	69	"Female"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.682622
+"596T"	" 70 "	"Alive"	2	"Chemotherapy"	2	54	"Female"	"Diffuse"	"Positive"	"Negative"	"Body"	""	5.906215
+"68T"	" 65 "	"Alive"	2	"Chemotherapy"	2	43	"Female"	"Diffuse"	"Negative"	"Positive"	"Body"	""	5.846276
+"10197T"	" 13 "	"Deceased"	2	"No chemotherapy"	3	54	"Male"	"Diffuse"	"Negative"	"Positive"	"Body"	""	5.42658
+"2221T"	" 161 "	"Alive"	3	"Chemotherapy"	3	63	"Male"	"Diffuse"	"Negative"	"Negative"	"Body"	"Negative"	5.743296
+"2245T"	" 60 "	"Deceased"	3	"Chemotherapy"	3	60	"Male"	"Intestinal"	"Positive"	"Negative"	"Body"	"Negative"	6.080003
+"2252T"	" 17 "	"Deceased"	3	"Chemotherapy"	3	30	"Male"	"Other"	"Negative"	"Positive"	"Antrum"	""	6.124734
+"2433T"	" 155 "	"Alive"	3	"Chemotherapy"	3	68	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.711117
+"2488T"	" 145 "	"Alive"	3	"Chemotherapy"	3	53	"Male"	"Mixed"	"Positive"	"Negative"	"Antrum"	"Negative"	5.861269
+"2499T"	" 153 "	"Alive"	3	"Chemotherapy"	3	59	"Female"	"Mixed"	"Negative"	"Negative"	"Body"	""	5.653215
+"2569T"	" 6 "	"Deceased"	3	"Chemotherapy"	3	53	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	5.673512
+"2582T"	" 143 "	"Alive"	3	"Chemotherapy"	3	53	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	"Negative"	5.960205
+"2695T"	" 39 "	"Deceased"	3	"Chemotherapy"	3	65	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.853146
+"2755T"	" 31 "	"Deceased"	3	"Chemotherapy"	3	72	"Male"	"Other"	"Negative"	"Negative"	"Body"	"Negative"	6.173877
+"2827T"	" 146 "	"Alive"	3	"Chemotherapy"	3	58	"Male"	"Other"	"Negative"	"Negative"	"Body"	"Negative"	6.303655
+"2847T"	" 138 "	"Alive"	3	"Chemotherapy"	3	68	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	6.227746
+"2849T"	" 25 "	"Deceased"	3	"Chemotherapy"	3	58	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	6.0074
+"2885T"	" 13 "	"Deceased"	3	"Chemotherapy"	3	42	"Male"	"Mixed"	"Negative"	"Negative"	"Body"	"Negative"	6.027999
+"2979T"	" 144 "	"Alive"	3	"Chemotherapy"	3	46	"Male"	"Other"	"Negative"	"Negative"	"Cardia"	"Positive"	6.0679
+"3045T"	" 12 "	"Deceased"	3	"Chemotherapy"	3	54	"Male"	"Other"	"Negative"	"Negative"	"Body"	"Negative"	6.470908
+"3062T"	" 109 "	"Deceased"	3	"Chemotherapy"	3	74	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Positive"	6.043598
+"3065T"	" 138 "	"Alive"	3	"Chemotherapy"	3	37	"Female"	"Diffuse"	"Positive"	"Negative"	"Body"	"Negative"	6.328189
+"31T"	" 61 "	"Alive"	3	"Chemotherapy"	3	61	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	""	5.584665
+"3252T"	" 4 "	"Deceased"	3	"Chemotherapy"	3	64	"Female"	"Diffuse"	"Positive"	"Negative"	"Cardia"	"Negative"	5.807752
+"3275T"	" 3 "	"Deceased"	3	"Chemotherapy"	3	62	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.800613
+"3316T"	" 115 "	"Deceased"	3	"Chemotherapy"	3	49	"Female"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	5.929003
+"3412T"	" 7 "	"Deceased"	3	"Chemotherapy"	3	85	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	"Negative"	5.647546
+"3462T"	" 18 "	"Deceased"	3	"Chemotherapy"	3	53	"Male"	"Diffuse"	"Positive"	"Negative"	"Body"	"Negative"	6.597911
+"3477T"	" 9 "	"Deceased"	3	"Chemotherapy"	3	58	"Male"	"Other"	"Positive"	"Negative"	"Antrum"	"Negative"	5.399071
+"3499T"	" 64 "	"Deceased"	3	"Chemotherapy"	3	65	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	"Negative"	6.452594
+"3514T"	" 32 "	"Deceased"	3	"Chemotherapy"	3	77	"Male"	"Other"	"Positive"	"Positive"	"Cardia"	""	6.389306
+"3527T"	" 124 "	"Alive"	3	"No chemotherapy"	3	80	"Female"	"Diffuse"	"Negative"	"Negative"	"Body"	"Negative"	6.297186
+"3628T"	" 24 "	"Deceased"	3	"Chemotherapy"	3	42	"Male"	"Other"	"Positive"	"Negative"	"Cardia"	"Negative"	6.240193
+"3672T"	" 30 "	"Deceased"	3	"Chemotherapy"	3	64	"Female"	"Diffuse"	"Positive"	"Negative"	"Antrum"	"Negative"	6.532859
+"3679T"	" 20 "	"Deceased"	3	"No chemotherapy"	3	80	"Male"	"Intestinal"	"Negative"	"Negative"	"Cardia"	"Negative"	6.104728
+"3746T"	" 120 "	"Alive"	3	"Chemotherapy"	3	60	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	5.823334
+"3804T"	" 3 "	"Deceased"	3	"Chemotherapy"	3	43	"Female"	"Diffuse"	"Positive"	"Positive"	"Body"	"Negative"	6.790269
+"3810T"	" 41 "	"Deceased"	3	"Chemotherapy"	3	42	"Male"	"Diffuse"	"Positive"	"Negative"	"Cardia"	"Positive"	5.206952
+"3830T"	" 127 "	"Alive"	3	"Chemotherapy"	3	63	"Female"	"Diffuse"	"Negative"	"Negative"	"Body"	"Negative"	6.063242
+"3831T"	" 119 "	"Alive"	2	"Chemotherapy"	3	67	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.705951
+"3839T"	" 7 "	"Deceased"	3	"Chemotherapy"	3	67	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	""	5.373658
+"3849T"	" 74 "	"Deceased"	2	"Chemotherapy"	3	35	"Female"	"Diffuse"	"Negative"	"Negative"	"Body"	"Negative"	5.179536
+"3872T"	" 122 "	"Alive"	2	"Chemotherapy"	3	65	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	6.544469
+"3886T"	" 17 "	"Deceased"	3	"Chemotherapy"	3	47	"Male"	"Other"	"Positive"	"Positive"	"Body"	"Positive"	5.645712
+"3892T"	" 118 "	"Alive"	2	"No chemotherapy"	3	63	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.454223
+"3896T"	" 118 "	"Alive"	3	"Chemotherapy"	3	55	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.286684
+"3903T"	" 117 "	"Alive"	1	"No chemotherapy"	3	56	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.756774
+"3907T"	" 12 "	"Deceased"	3	"Chemotherapy"	3	40	"Female"	"Other"	"Positive"	"Negative"	""	""	6.677646
+"3912T"	" 37 "	"Deceased"	4	"Chemotherapy"	3	64	"Male"	"Other"	"Positive"	"Negative"	"Antrum"	""	6.114928
+"3960T"	" 91 "	"Deceased"	3	"Chemotherapy"	3	60	"Female"	"Other"	"Negative"	"Negative"	"Body"	"Positive"	5.467274
+"3972T"	" 11 "	"Deceased"	3	"Chemotherapy"	3	52	"Male"	"Other"	"Positive"	"Negative"	"Body"	"Negative"	5.415311
+"3976T"	" 34 "	"Deceased"	3	"Chemotherapy"	3	68	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.947084
+"3983T"	" 26 "	"Deceased"	2	"Chemotherapy"	3	64	"Male"	"Intestinal"	"Negative"	"Negative"	"Whole"	""	5.643516
+"3998T"	" 40 "	"Deceased"	3	"Chemotherapy"	3	55	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	6.072844
+"39T"	" 60 "	"Alive"	2	"No chemotherapy"	3	52	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.334063
+"4029T"	" 115 "	"Alive"	3	"Chemotherapy"	3	69	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	5.386885
+"4030T"	" 43 "	"Deceased"	3	"Chemotherapy"	3	65	"Female"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.382736
+"4032T"	" 124 "	"Alive"	3	"Chemotherapy"	3	71	"Male"	"Other"	"Negative"	"Negative"	"Cardia"	"Positive"	5.440676
+"4046T"	" -   "	"Deceased"	4	""	3	75	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.831369
+"4064T"	" 75 "	"Deceased"	3	"Chemotherapy"	3	71	"Male"	"Intestinal"	"Negative"	"Negative"	"Body"	"Negative"	6.102394
+"4078T"	" 21 "	"Deceased"	3	"Chemotherapy"	3	49	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	5.22941
+"4080T"	" 121 "	"Alive"	3	"Chemotherapy"	3	42	"Female"	"Diffuse"	"Positive"	"Negative"	"Body"	"Negative"	5.339386
+"4123T"	" 33 "	"Deceased"	3	"Chemotherapy"	3	49	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Negative"	5.763589
+"4142T"	" 113 "	"Alive"	2	"Chemotherapy"	3	50	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	6.162154
+"4156T"	" 20 "	"Deceased"	3	"Chemotherapy"	3	62	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.163372
+"4162T"	" 113 "	"Alive"	3	"Chemotherapy"	3	66	"Male"	"Other"	"Negative"	"Negative"	"Body"	"Negative"	6.585261
+"4171T"	" 58 "	"Deceased"	2	"Chemotherapy"	3	63	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.582464
+"4173T"	" 113 "	"Alive"	3	"Chemotherapy"	3	50	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	"Positive"	5.118282
+"4188T"	" 113 "	"Alive"	1	"No chemotherapy"	3	56	"Female"	"Other"	"Negative"	"Negative"	"Body"	"Negative"	5.641692
+"4224T"	" 24 "	"Deceased"	3	"Chemotherapy"	3	74	"Female"	"Diffuse"	"Negative"	"Negative"	"Body"	"Negative"	5.447781
+"4262T"	" 13 "	"Deceased"	3	"Chemotherapy"	3	72	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.317279
+"4265T"	" 48 "	"Deceased"	3	"Chemotherapy"	3	69	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.657093
+"4275T"	" 111 "	"Alive"	2	"Chemotherapy"	3	67	"Male"	"Diffuse"	"Negative"	"Negative"	"Cardia"	""	5.311613
+"4276T"	" 55 "	"Deceased"	3	"Chemotherapy"	3	65	"Male"	"Other"	"Positive"	"Negative"	"Body"	""	5.218304
+"42T"	" 59 "	"Alive"	3	"Chemotherapy"	3	42	"Female"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.328761
+"4311T"	" 110 "	"Alive"	2	"Chemotherapy"	3	41	"Male"	"Diffuse"	"Negative"	"Negative"	"Body"	""	5.305431
+"4313T"	" 118 "	"Alive"	3	"Chemotherapy"	3	58	"Male"	"Other"	"Negative"	"Negative"	"Body"	""	5.768353
+"4314T"	" 117 "	"Alive"	3	"Chemotherapy"	3	59	"Male"	"Other"	"Positive"	"Negative"	"Body"	""	6.236696
+"4316T"	" 39 "	"Deceased"	2	"Chemotherapy"	3	49	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.600321
+"4317T"	" 23 "	"Deceased"	3	"Chemotherapy"	3	68	"Male"	"Other"	"Positive"	"Negative"	"Antrum"	""	6.384924
+"4325T"	" 19 "	"Deceased"	3	"Chemotherapy"	3	65	"Male"	"Other"	"Negative"	"Negative"	"Body"	""	5.709283
+"4339T"	" 12 "	"Deceased"	3	"Chemotherapy"	3	44	"Male"	"Diffuse"	"Positive"	"Negative"	"Body"	""	5.411406
+"4341T"	" 110 "	"Alive"	3	"Chemotherapy"	3	62	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.48576
+"4349T"	" 116 "	"Alive"	2	"No chemotherapy"	3	63	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	5.714695
+"4367T"	" 109 "	"Alive"	3	"Chemotherapy"	3	66	"Male"	"Diffuse"	"Negative"	"Negative"	"Body"	""	5.693368
+"4386T"	" 116 "	"Deceased"	2	"No chemotherapy"	3	59	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	6.506573
+"4390T"	" 109 "	"Alive"	3	"Chemotherapy"	3	53	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	6.429921
+"4396T"	" 114 "	"Alive"	3	"Chemotherapy"	3	67	"Male"	"Other"	"Negative"	"Negative"	"Body"	""	5.923591
+"43T"	" 59 "	"Alive"	2	"No chemotherapy"	3	32	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	""	5.193814
+"4403T"	" 108 "	"Alive"	2	"No chemotherapy"	3	51	"Female"	"Diffuse"	"Negative"	"Negative"	"Antrum"	"Negative"	5.728344
+"4430T"	" 23 "	"Deceased"	4	"Chemotherapy"	3	59	"Male"	"Other"	"Negative"	"Negative"	"Cardia"	""	5.619447
+"4438T"	" 108 "	"Alive"	1	"No chemotherapy"	3	54	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.494493
+"4439T"	" 108 "	"Alive"	1	"No chemotherapy"	3	70	"Female"	"Other"	"Negative"	"Negative"	"Body"	""	5.418975
+"4442T"	" 18 "	"Deceased"	3	"Chemotherapy"	3	74	"Female"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	6.058746
+"4444T"	" 108 "	"Alive"	3	"Chemotherapy"	3	50	"Female"	"Diffuse"	"Negative"	"Negative"	"Body"	""	7.093337
+"4494T"	" 13 "	"Deceased"	2	"Chemotherapy"	3	54	"Male"	"Intestinal"	"Negative"	"Negative"	"Cardia"	""	6.334787
+"4497T"	" 10 "	"Deceased"	2	"Chemotherapy"	3	73	"Female"	"Diffuse"	"Negative"	"Positive"	"Body"	""	5.556795
+"44T"	" 59 "	"Alive"	3	"Chemotherapy"	3	52	"Female"	"Intestinal"	"Positive"	"Positive"	"Body"	""	5.264593
+"4535T"	" 92 "	"Deceased"	3	"Chemotherapy"	3	77	"Male"	"Intestinal"	"Positive"	"Negative"	"Body"	""	5.589102
+"4545T"	" 15 "	"Deceased"	3	"Chemotherapy"	3	75	"Male"	"Other"	"Positive"	"Negative"	"Cardia"	""	5.279905
+"4546T"	" 49 "	"Deceased"	3	"Chemotherapy"	3	49	"Female"	"Other"	"Negative"	"Negative"	"Whole"	""	5.602427
+"4548T"	" 114 "	"Alive"	2	"Chemotherapy"	3	64	"Male"	"Other"	""	""	"Antrum"	""	6.604652
+"4561T"	" 12 "	"Deceased"	4	"Chemotherapy"	3	53	"Female"	"Other"	"Positive"	"Positive"	"Body"	""	5.623314
+"4569T"	" 111 "	"Alive"	3	"No chemotherapy"	3	57	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.35445
+"4573T"	" 109 "	"Alive"	3	"Chemotherapy"	3	44	"Female"	"Other"	"Negative"	"Negative"	"Body"	""	5.525598
+"4577T"	" 8 "	"Deceased"	3	"Chemotherapy"	3	62	"Male"	"Other"	"Positive"	"Negative"	"Antrum"	""	5.238568
+"4580T"	" 101 "	"Deceased"	2	"Chemotherapy"	3	55	"Male"	"Diffuse"	"Negative"	"Negative"	"Cardia"	""	5.433679
+"4588T"	" 33 "	"Deceased"	3	"Chemotherapy"	3	70	"Male"	"Diffuse"	"Negative"	"Negative"	"Antrum"	""	6.148574
+"45T"	" 60 "	"Alive"	3	"No chemotherapy"	3	46	"Female"	"Diffuse"	"Negative"	"Positive"	"Body"	""	5.247627
+"4603T"	" 109 "	"Alive"	3	"Chemotherapy"	3	36	"Female"	"Diffuse"	""	""	"Body"	"Negative"	5.829702
+"4617T"	" 4 "	"Deceased"	3	"Chemotherapy"	3	65	"Male"	"Other"	"Positive"	"Negative"	"Body"	""	5.963856
+"4638T"	" 101 "	"Deceased"	3	"Chemotherapy"	3	63	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	6.107503
+"4658T"	" 92 "	"Deceased"	1	"No chemotherapy"	3	71	"Male"	"Other"	"Positive"	"Negative"	"Body"	""	5.707626
+"4667T"	" 103 "	"Alive"	3	"Chemotherapy"	3	54	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	5.45744
+"4669T"	" 102 "	"Alive"	2	"Chemotherapy"	3	51	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	""	5.29299
+"4670T"	" 39 "	"Deceased"	3	"Chemotherapy"	3	65	"Male"	"Other"	"Positive"	"Negative"	"Antrum"	""	5.378334
+"4688T"	" 110 "	"Alive"	3	"Chemotherapy"	3	49	"Male"	"Intestinal"	"Positive"	"Negative"	"Cardia"	"Negative"	5.549176
+"4689T"	" 16 "	"Deceased"	3	"No chemotherapy"	3	84	"Female"	"Diffuse"	"Positive"	"Negative"	"Antrum"	""	5.930985
+"46T"	" 20 "	"Deceased"	3	"No chemotherapy"	3	43	"Male"	"Diffuse"	"Positive"	"Positive"	"Body"	""	5.834565
+"4708T"	" 14 "	"Deceased"	3	"Chemotherapy"	3	72	"Male"	"Other"	"Positive"	"Negative"	"Antrum"	""	6.052363
+"4721T"	" 13 "	"Deceased"	2	"Chemotherapy"	3	60	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	""	5.804223
+"4724T"	" 102 "	"Alive"	3	"Chemotherapy"	3	54	"Female"	"Intestinal"	"Positive"	"Negative"	"Antrum"	"Negative"	5.698752
+"4736T"	" 33 "	"Deceased"	3	"Chemotherapy"	3	44	"Female"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.668189
+"4737T"	" 31 "	"Deceased"	3	"Chemotherapy"	3	51	"Male"	"Other"	"Positive"	"Negative"	"Antrum"	""	5.844679
+"4768T"	" 2 "	"Deceased"	3	"Chemotherapy"	3	47	"Female"	"Other"	"Positive"	"Negative"	"Antrum"	""	5.272402
+"4771T"	" 38 "	"Deceased"	3	"Chemotherapy"	3	34	"Male"	"Other"	"Negative"	"Negative"	"Body"	""	5.875969
+"4786T"	" 100 "	"Alive"	3	"Chemotherapy"	3	52	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.497335
+"4788T"	" 92 "	"Deceased"	3	"Chemotherapy"	3	67	"Male"	"Intestinal"	"Positive"	"Negative"	"Body"	""	5.748406
+"47T"	" 13 "	"Deceased"	3	"No chemotherapy"	3	52	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	""	5.25652
+"4812T"	" 107 "	"Alive"	3	"Chemotherapy"	3	55	"Male"	"Intestinal"	"Negative"	"Negative"	"Antrum"	"Negative"	6.117263
+"4863T"	" 109 "	"Alive"	2	"Chemotherapy"	3	52	"Male"	"Intestinal"	"Positive"	"Negative"	"Antrum"	""	5.658948
+"4869T"	" 98 "	"Alive"	3	"Chemotherapy"	3	75	"Male"	"Other"	"Positive"	"Negative"	"Antrum"	""	5.718024
+"4889T"	" 39 "	"Deceased"	3	"Chemotherapy"	3	81	"Male"	"Other"	"Negative"	"Negative"	"Antrum"	""	5.5869
+"48T"	" 9 "	"Deceased"	3	"No chemotherapy"	3	57	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.143398
+"4925T"	" 103 "	"Alive"	3	"Chemotherapy"	3	75	"Male"	"Other"	"Negative"	"Negative"	"Body"	""	5.359138
+"50T"	" 55 "	"Alive"	2	"No chemotherapy"	3	66	"Male"	"Diffuse"	"Positive"	"Positive"	"Cardia"	""	5.083491
+"55T"	" 49 "	"Alive"	2	"Chemotherapy"	3	48	"Female"	"Diffuse"	"Negative"	"Positive"	"Body"	""	5.791032
+"57T"	" 78 "	"Alive"	3	"No chemotherapy"	3	31	"Male"	"Mixed"	"Positive"	"Positive"	"Body"	""	5.721484
+"60T"	" 73 "	"Alive"	3	"Chemotherapy"	3	40	"Female"	"Diffuse"	"Positive"	"Positive"	"Body"	""	6.224355
+"62T"	" 70 "	"Alive"	3	"No chemotherapy"	3	67	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	""	5.76661
+"65T"	" 71 "	"Alive"	3	"Chemotherapy"	3	48	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	""	5.021043
+"66T"	" 60 "	"Alive"	4	"Chemotherapy"	3	59	"Male"	"Intestinal"	"Positive"	"Positive"	"Antrum"	""	5.5959
+"69T"	" 59 "	"Alive"	2	"Chemotherapy"	3	64	"Male"	"Intestinal"	"Positive"	"Negative"	"Body"	""	5.655236
+"70T"	" 59 "	"Alive"	3	"No chemotherapy"	3	27	"Male"	"Diffuse"	"Positive"	"Positive"	"Cardia"	""	5.689822
+"71T"	" 34 "	"Deceased"	3	"No chemotherapy"	3	56	"Male"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.631205
+"72T"	" 25 "	"Deceased"	2	"No chemotherapy"	3	54	"Female"	"Diffuse"	"Negative"	"Positive"	"Body"	""	6.03031
+"73T"	" 53 "	"Alive"	3	"Chemotherapy"	3	74	"Female"	"Diffuse"	"Positive"	"Positive"	"Antrum"	""	5.391116
+"74T"	" 54 "	"Alive"	2	"Chemotherapy"	3	50	"Male"	"Diffuse"	"Negative"	"Positive"	"Body"	""	5.349397
+"76T"	" 24 "	"Deceased"	3	"No chemotherapy"	3	64	"Male"	"Intestinal"	"Positive"	"Positive"	"Cardia"	""	5.299224
+"77T"	" 46 "	"Alive"	3	"Chemotherapy"	3	40	"Male"	"Diffuse"	"Positive"	"Negative"	"Antrum"	""	5.323166
