@@ -21,10 +21,8 @@ The codes are tested on Windows 10.
 All the scripts are tested on R (4.1.1). It might take few minutes to complete to install all the required packages.
 
 You can use install.packages("package name") to install the packages.
-The required R package: 
-survminer, survival, ggplot2. 
+
+The required R package: survminer, survival, ggplot2, plyr and pracma. 
 
 **Demo**
 Please find each script file in "codes" directory and run it in R. The datasets which are required to run each script have been included in "data" directory.
-
-For each script, the expected output and run time are as follows
