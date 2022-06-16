@@ -3,6 +3,9 @@
 
 This repository contains the scripts which can reproduce the main figures in the "ACTA2 expression predicts survival and response to immune checkpoint inhibitors in gastric cancer" (submiited to Clinical Cancer Research).
 
+
+![](./data/Figure1.png | width=100)
+
 **System requirements**
 
 The codes require only a standard computer with enough RAM to support the in-memory operations.
