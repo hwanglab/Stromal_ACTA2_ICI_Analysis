@@ -28,6 +28,6 @@ The required R package: survminer, survival, data.table, ggplot2, ggpubr, plyr, 
 
 **Demo**
 
-Please find each script file in "codes" directory and run it in R. The datasets which are required to run each script have been included in "data" directory.
+Please find each script file in "codes" directory and run it in R. The datasets for each script have been included in "data" directory. The figures and additional texts will be generated in "results" directory. The generated figures might show some cosmetic differences from the ones included in the paper as we manually edited the figures for better visualization. 
 
 For any questions and comments about the implementations, please contact the authors at park.sunho[nospam]@mayo.edu
