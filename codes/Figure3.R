@@ -5,12 +5,7 @@ library(pracma)
 # Figure 3. ACTA2 expression predicted response to immune checkpoint inhibitors. 
 # Abbreviations: CR, complete response; PR, partial response; 
 #                SD, stable disease; PD, progressive disease.
-#
-# The data is from 
 #-------------------------------------------------------------------------------
-
-# the current working directory 
-setwd("D:\\Research\\codes\\ACTA2_Analysis\\paper_codes\\codes\\")
 
 #--- data loading
 my_data_immun <- read.table(file = '../data/data_figure_3.txt')
@@ -33,16 +28,7 @@ mat_counts[1, 2] = sum((my_data_immun$ACTA2_bin == 2) & (my_data_immun$res_b1 ==
 mat_counts[2, 2] = sum((my_data_immun$ACTA2_bin == 2) & (my_data_immun$res_b1 == 1))
 
 print(mat_counts)
-
-# Fisher's exact test
-df_p_val <- data.frame(
-  group1 = "Low",
-  group2 = "High",
-  label = sprintf('p=%.5f', fisher.test(mat_counts)$p.value),
-  x = 0.5,
-  y.position = sum(mat_counts[,2]) + 2
-)
-
+tst <- chisq.test(mat_counts)
 
 # generate a bar plot
 mat_res <- matrix(0, nrow = 4, ncol = 3);
@@ -65,9 +51,19 @@ library(plyr)
 df_res <- ddply(df_res, .(ACTA2_bin), 
               transform, pos = cumsum(patient_count) - (0.5 * patient_count))
 
-ggplot(df_res, aes(x = ACTA2_bin, y = patient_count)) +
+p <- ggplot(df_res, aes(x = ACTA2_bin, y = patient_count)) +
   geom_bar(aes(fill = response), stat="identity") +
   xlab("ACTA2 expression") + ylab("Number of patients") +
-  geom_text(aes(label = patient_count, y = pos), size = 3) +
-  add_pvalue(df_p_val) # bracket
+  geom_text(aes(label = patient_count, y = pos), size = 3) + 
+  geom_text(aes(x=1.5, y=83, label=sprintf('p-value=%.3f', tst$p.value)), size = 3) +
+  geom_text(aes(x=1.5, y=80, label=sprintf('|-------------------------|', tst$p.value)), size = 3) 
 
+dir.create("../results/", showWarnings = FALSE)
+
+pdf_fn = file.path("../results/Figure3.pdf")
+message(pdf_fn)
+pdf.options(reset = TRUE, onefile = FALSE)
+pdf(file=pdf_fn,width=5,height=5)
+p
+dev.off()
+message("Done.")
