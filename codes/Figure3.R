@@ -1,3 +1,5 @@
+library("ggplot2")
+
 #-------------------------------------------------------------------------------
 # Figure 3. ACTA2 expression predicted response to immune checkpoint inhibitors. 
 # Abbreviations: CR, complete response; PR, partial response; 
