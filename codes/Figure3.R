@@ -1,4 +1,5 @@
 library("ggplot2")
+library(plyr)
 
 #-------------------------------------------------------------------------------
 # Figure 3. ACTA2 expression predicted response to immune checkpoint inhibitors. 
@@ -46,7 +47,6 @@ colnames(df_res) = c("ACTA2_bin", "response", "patient_count")
 df_res$patient_count <- as.numeric(df_res$patient_count)
 df_res$ACTA2_bin <- factor(df_res$ACTA2_bin, levels=c("Low", "High"))
 
-library(plyr)
 df_res <- ddply(df_res, .(ACTA2_bin), 
               transform, pos = cumsum(patient_count) - (0.5 * patient_count))
 
