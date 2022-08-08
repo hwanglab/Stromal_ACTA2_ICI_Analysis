@@ -21,7 +21,7 @@ p <- ggplot(df_input_sub, aes(x=group_id, y=ACTA2, color=group_id)) +
   theme(legend.position="right",  panel.background = element_rect(fill='transparent')) +
   labs(title="ACTA2 values in Group 4 vs others", 
        x="group", y = "ACTA2 Expression") +
-  stat_compare_means(method='t.test', vjust=0.8, label = "p.signif", comparisons=my_comparisons) 
+  stat_compare_means(method='wilcox.test', vjust=0.8, label = "p.signif", comparisons=my_comparisons) 
 
 dir.create("../results/", showWarnings = FALSE)
 
