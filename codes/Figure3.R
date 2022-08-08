@@ -39,7 +39,8 @@ mat_res[3:4, 1] = c("High")
 mat_res[c(1,3), 2] = c("SD/PD")
 mat_res[c(2,4), 2] = c("CR/PR")
 
-mat_res[, 3] = Reshape(mat_counts, 4, 1)
+# mat_res[, 3] = Reshape(mat_counts, 4, 1)
+mat_res[, 3] = c(mat_counts[1,1], mat_counts[2,1], mat_counts[1,2], mat_counts[2,2])
 
 df_res = data.frame(mat_res);
 colnames(df_res) = c("ACTA2_bin", "response", "patient_count")
