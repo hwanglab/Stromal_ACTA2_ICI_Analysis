@@ -5,7 +5,7 @@ library("survival")
 # Figure 2. ACTA2 expression was independently associated with overall survival 
 # in gastric cancer patients. 
 
-# The following codes reproduce the Figure 2-(B, C and D) which were generated from the pooled data 
+# The following codes reproduce the Figure 2-(B, C and D) which were generated using the pooled data 
 
 # The pooled data was combined from cohorts previously published by The Cancer Genome Atlas Project (TCGA),
 # Asian Cancer Research Group (ACRG), Sohn et al,[28] Kim et al, For the pooled data (n=974), 
@@ -63,6 +63,8 @@ message("Done.")
 
 #-------------------------------------------------------------------------------
 #- Figure 2 - (C & D): ) Kaplan-Meier plots
+data_f_sub = data_f[!(is.na(data_f$MSI) | is.na(data_f$surv_time_m)),]
+data_f_sub$MSI = factor(data_f_sub$MSI)
 
 mr_thres = quantile(data_f$ACTA2[!is.na(data_f$ACTA2)], c(0.25))
 
@@ -73,13 +75,35 @@ x[data_f$ACTA2  > mr_thres] = 1
 data_f_tmp = cbind(data_f, MSI_ACTA2 = interaction(data_f$MSI, factor(x)))
 data_f_sub = data_f_tmp[!(is.na(data_f_tmp$MSI_ACTA2) | is.na(data_f_tmp$surv_time_m)),]
 
-# microsatellite instability-high patients 
+# Microsatellite instability-high (MSI-H) patients 
 data_f_MSI = data_f_sub[data_f_sub$MSI==1, ]
-surv_MSI = data.frame(data_f_MSI$surv_time_m,  data_f_MSI$vital_sign_1_d, data_f_MSI$MSI_ACTA2)
+
+# cutoff for MSI only samples
+mr_thres = quantile(data_f_MSI$ACTA2, c(0.25))
+print(paste0('Cutoff (MSI-H)  ', sprintf('%.4f', mr_thres)))
+
+x = rep(NA, rep=nrow(data_f_MSI));
+x[data_f_MSI$ACTA2 <= mr_thres] = 1
+x[data_f_MSI$ACTA2  > mr_thres] = 2
+
+data_f_MSI = cbind(data_f_MSI, ACTA2_bin = factor(x))
+
+surv_MSI = data.frame(data_f_MSI$surv_time_m,  data_f_MSI$vital_sign_1_d, data_f_MSI$ACTA2_bin)
 colnames(surv_MSI) <- c("time", "status", "gInfo")
 
-# microsatellite stable patients
+# Microsatellite stable (MSS) patients
 data_f_MSS = data_f_sub[data_f_sub$MSI==0, ]
+
+# cutoff for MSS only samples
+mr_thres = quantile(data_f_MSS$ACTA2, c(0.25))
+print(paste0('Cutoff (MSS)  ', sprintf('%.4f', mr_thres)))
+
+x = rep(NA, rep=nrow(data_f_MSI));
+x[data_f_MSS$ACTA2 <= mr_thres] = 1
+x[data_f_MSS$ACTA2  > mr_thres] = 2
+
+data_f_MSS = cbind(data_f_MSS, ACTA2_bin = factor(x))
+
 surv_MSS = data.frame(data_f_MSS$surv_time_m,  data_f_MSS$vital_sign_1_d, data_f_MSS$MSI_ACTA2)
 colnames(surv_MSS) <- c("time", "status", "gInfo")
 
@@ -110,6 +134,7 @@ p
 dev.off()
 message("Done.")
 
+print(sprintf('[Figure 2-C]  ACTA2-Low: %3d vs ACTA2-High: %3d', sum(data_f_MSI$ACTA2_bin==1), sum(data_f_MSI$ACTA2_bin==2)))
 print(fit_MSI) # print some information including the median survival times
 
 # Figure 2 - D: Kaplan-Meier survival analysis of microsatellite stable patients 
@@ -139,4 +164,5 @@ p
 dev.off()
 message("Done.")
 
+print(sprintf('[Figure 2-D]  ACTA2-Low: %3d vs ACTA2-High: %3d', sum(data_f_MSS$ACTA2_bin==1), sum(data_f_MSS$ACTA2_bin==2)))
 print(fit_MSS) # print some information including the median survival times

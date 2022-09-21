@@ -5,13 +5,13 @@ library("survival")
 # Figure 2: ACTA2 expression was independently associated with overall survival 
 # in gastric cancer patients. 
 
-# The following codes reproduce the Figure 2-A which was generated from the Yonsei chort 
+# The following codes reproduce the Figure 2-A which was generated using the Yonsei cohort 
 
 # (A) Multivariable analysis of the Yonsei cohort (samples from 567 gastric adenocarcinoma patients)
 #-------------------------------------------------------------------------------
 
 # the current working directory 
-# setwd("D:\\Research\\codes\\ACTA2_Analysis\\paper_codes\\codes\\")
+# setwd("D:\\Research\\codes\\00_distributions\\Stromal_ACTA2_ICI_Analysis_updated\\codes\\")
 
 #- load data
 my_data <- read.table("../data/Yonsei_567_Clinical_ACTA2_Group.txt", sep="\t", header=TRUE);
