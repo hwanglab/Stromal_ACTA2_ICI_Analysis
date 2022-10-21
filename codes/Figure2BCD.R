@@ -22,13 +22,15 @@ library("survival")
 # ACTA2 expression values are obtained after the pooled data was normalized by ComBat
 #-------------------------------------------------------------------------------
 
+# the current working directory 
+# setwd("D:\\Research\\codes\\00_distributions\\Stromal_ACTA2_ICI_Analysis\\codes")
+
 #- load data
-data_f <- read.table("../data/pooled_data_MSI_ACTA2.csv", sep=",", header=TRUE);
+data_f <- read.table("../data/pooled_data_ACTA2_MSI_EBV.csv", sep=",", header=TRUE);
 data_f$Stage = factor(data_f$Stage)
 
 #-------------------------------------------------------------------------------
 #- Figure 2-B: Multivariable analysis of the pooled cohort. 
-
 fit_mv <- coxph(formula = Surv(surv_time_m, vital_sign_1_d)
                 ~ Age + Sex_ + Stage + ACTA2, data = data_f)
 
@@ -43,7 +45,7 @@ p    <- as.matrix(coeffs[,5])
 
 dir.create("../results/", showWarnings = FALSE)
 
-fileConn<-file("../results/Figure2B_additional.txt", open = 'a')
+fileConn<-file("../results/Figure2B_additional.txt", open = 'w')
 for (mn_i in 1:length(beta)){
   str_line = sprintf("%10s:: %.2f (%.2f, %.2f), pval = %.5f", 
                      rownames(coeffs)[mn_i], beta[mn_i], CI[mn_i,1], CI[mn_i,2], p[mn_i])
@@ -61,21 +63,14 @@ dev.off()
 message("Done.")
 
 
+
 #-------------------------------------------------------------------------------
-#- Figure 2 - (C & D): ) Kaplan-Meier plots
+#- Figure 2 - (C & D): Kaplan-Meier plots
+# data_f$MSI[301:567] = NA
+
 data_f_sub = data_f[!(is.na(data_f$MSI) | is.na(data_f$surv_time_m)),]
-data_f_sub$MSI = factor(data_f_sub$MSI)
 
-mr_thres = quantile(data_f$ACTA2[!is.na(data_f$ACTA2)], c(0.25))
-
-x = rep(NA, rep=nrow(data_f));
-x[data_f$ACTA2 <= mr_thres] = 0
-x[data_f$ACTA2  > mr_thres] = 1
-
-data_f_tmp = cbind(data_f, MSI_ACTA2 = interaction(data_f$MSI, factor(x)))
-data_f_sub = data_f_tmp[!(is.na(data_f_tmp$MSI_ACTA2) | is.na(data_f_tmp$surv_time_m)),]
-
-# Microsatellite instability-high (MSI-H) patients 
+#- Microsatellite instability-high (MSI-H) patients 
 data_f_MSI = data_f_sub[data_f_sub$MSI==1, ]
 
 # cutoff for MSI only samples
@@ -91,7 +86,8 @@ data_f_MSI = cbind(data_f_MSI, ACTA2_bin = factor(x))
 surv_MSI = data.frame(data_f_MSI$surv_time_m,  data_f_MSI$vital_sign_1_d, data_f_MSI$ACTA2_bin)
 colnames(surv_MSI) <- c("time", "status", "gInfo")
 
-# Microsatellite stable (MSS) patients
+
+#- Microsatellite stable (MSS) patients
 data_f_MSS = data_f_sub[data_f_sub$MSI==0, ]
 
 # cutoff for MSS only samples
@@ -104,8 +100,9 @@ x[data_f_MSS$ACTA2  > mr_thres] = 2
 
 data_f_MSS = cbind(data_f_MSS, ACTA2_bin = factor(x))
 
-surv_MSS = data.frame(data_f_MSS$surv_time_m,  data_f_MSS$vital_sign_1_d, data_f_MSS$MSI_ACTA2)
+surv_MSS = data.frame(data_f_MSS$surv_time_m,  data_f_MSS$vital_sign_1_d, data_f_MSS$ACTA2_bin)
 colnames(surv_MSS) <- c("time", "status", "gInfo")
+write.table(surv_MSS, file = "../results/data_Figure2D_ACTA2_low_high_in_MSS.txt", sep = "\t")
 
 # Figure 2 - C: Kaplan-Meier survival analysis of microsatellite instability-high patients 
 # stratified by ACTA2 expression 

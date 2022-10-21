@@ -8,13 +8,13 @@ library(ggpubr)
 #-------------------------------------------------------------------------------
 
 # ACTA2
-df_input <- read.table("../data/Yonsei_567_Clinical_ACTA2_Group.txt", header = TRUE, sep = "\t");
+df_input <- read.table("../data/Yonsei_567_OS_ACTA2_MSI_EBV_Subtypes.txt", header = TRUE, sep = "\t");
 df_input$group_id = factor(df_input$group_id, levels=c(1,2,3,4))
-df_input_sub = df_input[,c(1, 14, 15)]
+df_input_sub = df_input[,c(1, 7, 10)]
 
 my_comparisons <- list(c("4", "1"), c("4", "2"), c("4", "3"))
 
-p <- ggplot(df_input_sub, aes(x=group_id, y=ACTA2, color=group_id)) + 
+p <- ggplot(df_input_sub, aes(x=group_id, y=ACTA2.expression, color=group_id)) + 
   geom_boxplot(outlier.shape = NA) +
   geom_point(position=position_jitterdodge(dodge.width=0.85), size=1.8, alpha=0.7, 
              aes(shape=group_id, group=group_id)) +

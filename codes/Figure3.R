@@ -8,7 +8,7 @@ library("plyr")
 #-------------------------------------------------------------------------------
 
 #--- data loading
-my_data_immun <- read.table(file = '../data/data_figure_3_updated.txt')
+my_data_immun <- read.table(file = '../data/data_figure_3_ACTA2_MSI_EBV.txt', header = TRUE, sep= "\t")
 
 mstr_save_path = "../results/"
 dir.create(mstr_save_path, showWarnings = FALSE)
