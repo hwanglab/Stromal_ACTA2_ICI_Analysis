@@ -81,3 +81,6 @@ Response_boxplot <- function (data_in, str_filenname) {
 Response_boxplot(my_data_immun, 'A-All_patients')
 Response_boxplot(my_data_immun[(my_data_immun$MSI==1) & !is.na(my_data_immun$MSI),], 'B-MSI_H')
 Response_boxplot(my_data_immun[(my_data_immun$MSI==0) & !is.na(my_data_immun$MSI),], 'C-MSS')
+
+Response_boxplot(my_data_immun[(my_data_immun$EBV==1) & !is.na(my_data_immun$EBV),], 'B-EBV+')
+Response_boxplot(my_data_immun[(my_data_immun$EBV==0) & !is.na(my_data_immun$EBV),], 'C-EBV-')
